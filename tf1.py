@@ -1,8 +1,3 @@
-n_input = 784  
-n_classes = 10  
-dropout = 1  
-num_epochs = 40
-
 X = tf.placeholder(tf.float32, [n_input, None])
 Y = tf.placeholder(tf.float32, [n_classes, None])
 W1 = tf.get_variable("W1", [64,n_input], initializer = tf.random_normal_initializer)
