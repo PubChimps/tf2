@@ -6,5 +6,6 @@ The following code is used to update TensorFlow in Watson Studio. You can downlo
 <img src="images/tf2install.png">
 
 Next, TensorFlow's new upgrade utility allows for the automatic conversion of TensorFlow 1.X code into TensorFlow 2.0 code. It can be used on the previous network shown as follows.
+<img src="images/nbscripting.png">
 
 The rest of the notebook shows how to build the same network in Keras, which as of TensorFlow 2.0 is the the high-level API for TensorFlow. The network can be trained using two different methods, both of which are shown.
