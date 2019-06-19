@@ -12,3 +12,5 @@ Next, TensorFlow's new upgrade utility allows for the automatic conversion of Te
 <img src="images/nbscripting.png">
 
 The rest of the notebook shows how to build the same network in Keras, which as of TensorFlow 2.0 is the the high-level API for TensorFlow. The network can be trained using two different methods, both of which are shown.
+
+If you have any questions about this post or the accompanying notebook contact IBM Developer Advocate Nick Acosta at nacosta@us.ibm.com. To keep up on all things TensorFlow 2.0 check out their [website](https://www.tensorflow.org/beta) (of which many of the examples discussed here are derived from) and [Medium](https://medium.com/tensorflow), and be sure to attend the [TensorFlow meetup sponsored by the IBM Data Science Community June 27th in San Francisco](https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/261787740/).
